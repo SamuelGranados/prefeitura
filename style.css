@@ -1,0 +1,8 @@
+.lista-decoracao {
+    list-style-type: none;
+    border-bottom: 1px solid black;
+}
+
+.lista-baixar {
+    list-style-type: none;
+}
